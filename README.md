@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# Fullstack Javascript developer
+Fullstack Javascript developer
 
-# HTML | CSS | JavaScript | Node.Js | SQL
+HTML | CSS | JavaScript | Node.Js | SQL
 
 <!--
 **Alexandre-prog/Alexandre-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
